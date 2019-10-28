@@ -4,7 +4,7 @@ Collorators: Ke Chen, Shihan Ran, and Zhankui He
 Project for CSE 258 at UCSD
 
 Description:
-An interesting multiplayer game with active-leaerning research possibility and social interaction via music recommender system and Unity.
+An interesting multiplayer game with active-learning research possibility and social interaction via music recommender system and Unity.
 
 See intro.md for further detail.
 
